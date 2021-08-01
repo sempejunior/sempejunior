@@ -3,9 +3,9 @@
         <br>Hola, I'm Carlos Sempé. <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
     </abc>  
 </h2> 
-<h5>I am very happy to meet you. I am passionate about developing software, people and products.
+<h3>I am very happy to meet you. I am passionate about developing software, people and products.
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</h5>
+</h3>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
