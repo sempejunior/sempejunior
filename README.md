@@ -4,6 +4,7 @@
     </abc>  
 </h2> 
 <h3>I am very happy to meet you. I am passionate about developing software, people and products.
+<br>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </h3>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
