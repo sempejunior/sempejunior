@@ -10,7 +10,7 @@ Tech Manager de Produtos de Inteligência Artificial no <strong>PicPay</strong>,
 
 ### ⚙️ Atualmente atuo com:
 
-- Liderança técnica de times de IA, produto e engenharia
+- Liderança técnica e gestão de pessoas em times de IA e engenharia de softwares
 - Arquitetura de sistemas distribuídos e pipelines RAG com LLMs
 - Produtos de automação com IA generativa (OpenAI, AWS Bedrock, Ollama)
 - Infraestrutura escalável com AWS, Kubernetes, Docker e CI/CD
